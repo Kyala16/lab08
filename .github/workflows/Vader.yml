@@ -15,7 +15,7 @@ jobs:
       - name: CowSay
         run: |
           sudo docker build -t kyala16/koala-vader .
-          sudo docker run kyala16/koala-vader -f vader-koala "Luke, i'm your father"
-          sudo docker run kyala16/koala-vader -f luke-koala "Nooooooooooooooo"
+          sudo docker run kyala16/koala-vader vader-koala "Luke, i'm your father"
+          sudo docker run kyala16/koala-vader luke-koala "Nooooooooooooooo"
           
         
