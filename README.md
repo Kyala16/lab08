@@ -3,9 +3,9 @@ ____
 
 ***Task: learn some information about Docker and Dockerfile***
 
--[X]**First step(download Docker on Ubuntu)**
+- [X] **First step(download Docker on Ubuntu)**
 
--[X]**Second step(learn some prefix and command)**
+- [X] **Second step(learn some prefix and command)**
 ```
   -it
   -h (--hostname)
@@ -19,9 +19,9 @@ ____
   ps -a (ps)
   rm
  ```
--[X]**Third step(create repos on DockerHub)**
+- [X] **Third step(create repos on DockerHub)**
 
--[X]**Fourth step(create Dockerfile with my repos and create some small main scene from Star Wars)**
+- [X] **Fourth step(create Dockerfile with my repos and create some small main scene from Star Wars)**
 
 Some usefull instructions:
 ```
